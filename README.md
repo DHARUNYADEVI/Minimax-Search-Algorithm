@@ -102,9 +102,9 @@ def minimax(game)
     end
 end
 <hr>
-<h2>Program</h2>
-import time
+<h2>Program:</h2>
 
+import time
 class Game:
     def __init__(self):
         self.initialize_game()
